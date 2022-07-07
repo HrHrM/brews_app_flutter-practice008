@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23928452205",
+    "project_id": "bigquery-models-test",
+    "storage_bucket": "bigquery-models-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23928452205:android:db6d6cfcea18c045acfb64",
+        "android_client_info": {
+          "package_name": "com.example.test_bigquery_models_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23928452205-na6j52dphfom7dk3gb1sitamtsvvh96l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxpLXpcJ9RAB-GkYDslCPko2_HzvxO6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23928452205-na6j52dphfom7dk3gb1sitamtsvvh96l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
